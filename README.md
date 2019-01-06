@@ -34,7 +34,7 @@ This project uses the following software and Python libraries:
 - Python 3.6
 - NumPy
 - Pandas
-- Scikit-learn
+- Scikit-learn (preprocessing, model_selection, metrics, ensemble, naive_bayes, linear_model, base)
 - Matplotlib
 - Seaborn
 - Jupyter Lab
