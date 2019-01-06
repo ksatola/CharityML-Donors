@@ -47,7 +47,5 @@ This project uses the following software and Python libraries:
 - After the best hyperparameters identification, feature importance was checked. Finally no features were removed from the datased based on worse model performance with the limited set of features (with the F-score of 0.5204, comparing to a model trained on full data set score of 0.68).
 
 ## Details
-- (https://github.com/ksatola/CharityML-Donors/blob/master/projects/finding_donors.html)
-
 - [HTML Preview](https://ksatola.github.io/projects/finding_donors.html)
 - [Jupyter Notebook](https://github.com/ksatola/ml-introduction/blob/master/finding_donors.ipynb)
