@@ -48,4 +48,4 @@ This project uses the following software and Python libraries:
 
 ## Details
 - [HTML Preview](https://ksatola.github.io/projects/finding_donors.html)
-- [Jupyter Notebook](https://github.com/ksatola/ml-introduction/blob/master/finding_donors.ipynb)
+- [Jupyter Notebook](https://github.com/ksatola/CharityML-Donors/blob/master/finding_donors.ipynb)
