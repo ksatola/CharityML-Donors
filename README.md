@@ -42,8 +42,8 @@ This project uses the following software and Python libraries:
 ## Results
 - The provided data were explored and prepared as input for machine learning algorithms (skewed data distributions transformation, numerical features normalization, data preprocessing of categorical features with one-hot encoding, shuffling and data split into test and train datasets).
 - Three models were arbitrary selected from available in Sklearn supervised learning models (RandomForestClassifier, GaussianNB, LogisticRegression).
-- The selected models were incorporated into a training and predicting pipeline and an initial models evaluations was performed based on model evaluation matrics like accuracy, F beta score (combining precision and recall into a mathematical formula).
-- The logistic regression model was chosen and its hyper-parameters were fine-tuned using GridSearch.
+- The selected models were incorporated into a training and predicting pipeline and an initial models evaluations was performed based on model evaluation metrics like accuracy, F beta score (combining precision and recall into a mathematical formula).
+- The logistic regression model was chosen based on F-score and linearity of data. The model's hyper-parameters were fine-tuned using GridSearch.
 - After the best hyperparameters identification, feature importance was checked. Finally no features were removed from the datased based on worse model performance with the limited set of features (with the F-score of 0.5204, comparing to a model trained on full data set score of 0.68).
 
 ## Details
